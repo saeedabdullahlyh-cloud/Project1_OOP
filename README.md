@@ -37,5 +37,5 @@ java PacmanGame
 
 ---
 
- Author
-Abdullah Saeed
+ Author:
+**Abdullah Saeed**
